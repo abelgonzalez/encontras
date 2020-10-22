@@ -1,0 +1,13 @@
+.DS_Store
+.metadata
+**/.settings/*
+**/.classpath
+**/.project
+target
+bin
+TestsProject
+**/hs_err*
+.idea
+.settings
+
+

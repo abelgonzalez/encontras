@@ -1,0 +1,4 @@
+Copacabana, a simulation for Siafu
+an Open Source Context Simulator
+============================================
+
